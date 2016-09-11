@@ -27,8 +27,11 @@ int main()
 		int m, n, a;
 
 		if (iss >> m >> n >> a)
+		{
 			cout << algorithm(m, n, a) << endl;
 			break;
+		}
+
 	}
 
 	return 0;
