@@ -1,2 +1,2 @@
-# codeforces-solutions
-My solutions to the Codeforces problem set
+# competitive-coding
+My solutions to competitive coding problems I encounter
